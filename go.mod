@@ -1,4 +1,4 @@
-module go-wheels
+module github.com/amoyzc/go-wheels
 
 go 1.17
 
